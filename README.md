@@ -1,6 +1,6 @@
 # week1_assignment
 
-A new Flutter project.
+A new Flutter project assignment where we have to make changes to our project name and also change our profile picture.
 
 ## Getting Started
 
